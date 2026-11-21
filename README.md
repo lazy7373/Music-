@@ -37,3 +37,8 @@ This is a growing archive, not a claim to contain every song released in 2025–
 
 ## Arijit Singh discography
 - Arijit Singh catalogue: `catalog/arijit-singh-discography.json` — 199 currently indexed entries across multiple languages; still a partial transcription, not the full 742-record reference discography. Commercial MP3s are not mirrored without redistribution rights.
+
+## Indian trending songs (last five years)
+- `catalog/india-trending-last-five-years-400.json` — 448 Indian song discovery entries from 2022–2026 across Hindi, Punjabi, Tamil, Telugu, Malayalam, Bengali, Marathi, Bhojpuri and Haryanvi music.
+- This is a multi-source discovery catalogue, not a definitive official all-India ranking. Song popularity and release credits should be checked against the linked chart/source references.
+- Commercial MP3s are not included unless redistribution rights are verified.
