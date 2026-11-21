@@ -1,0 +1,63 @@
+name: Import licensed MP3s
+
+on:
+  push:
+    paths:
+      - ".github/workflows/import-audio.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  download-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Download artist-authorized CC BY 4.0 tracks
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p audio/2026/phonk
+          curl --fail --location --retry 3 --user-agent "Music-Archive/1.0 (licensed music archive)" \
+            "https://gmxmusic.com/dl/hanzo__holy-soul.mp3" \
+            --output "audio/2026/phonk/HANZO - HOLY SOUL.mp3"
+          curl --fail --location --retry 3 --user-agent "Music-Archive/1.0 (licensed music archive)" \
+            "https://gmxmusic.com/dl/emin-nilsen__emin-nilsen-shakedown.mp3" \
+            --output "audio/2026/phonk/Emin Nilsen - SHAKEDOWN.mp3"
+          python - <<'PY'
+          from pathlib import Path
+          for p in Path("audio/2026/phonk").glob("*.mp3"):
+              data = p.read_bytes()
+              if len(data) < 10000 or not (data[:3] == b"ID3" or (len(data) > 1 and data[0] == 0xff and data[1] & 0xe0 == 0xe0)):
+                  raise SystemExit(f"Downloaded file does not look like MP3 audio: {p}")
+              print(f"Verified {p}: {len(data):,} bytes")
+          PY
+
+      - name: Add audio and attribution
+        shell: bash
+        run: |
+          cat > audio/2026/phonk/ATTRIBUTION.txt <<'EOF'
+          HOLY SOUL — HANZO
+          Source: https://gmxmusic.com/tracks/hanzo__holy-soul.html
+          Licence: Creative Commons Attribution 4.0 International (CC BY 4.0)
+          Credit: Music: HANZO - HOLY SOUL
+          https://www.youtube.com/@hanzothe_phonk?sub_confirmation=1
+          Free to use with credit via GMXMusic: https://www.youtube.com/@gmxmusicofficial
+
+          SHAKEDOWN — Emin Nilsen
+          Source: https://gmxmusic.com/tracks/emin-nilsen__emin-nilsen-shakedown.html
+          Licence: Creative Commons Attribution 4.0 International (CC BY 4.0)
+          Credit: Music: Emin Nilsen - SHAKEDOWN
+          https://music.apple.com/us/artist/emin-nilsen/1045884538
+          Free to use with credit via GMXMusic: https://www.youtube.com/@gmxmusicofficial
+          EOF
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/2026/phonk
+          if ! git diff --cached --quiet; then
+            git commit -m "Add licensed 2026 phonk MP3 files"
+            git push
+          fi
