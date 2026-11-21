@@ -1,0 +1,46 @@
+name: Import licensed audio
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/import-licensed-audio.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download tracks released under CC BY 4.0
+        run: |
+          mkdir -p audio/phonk licenses
+          curl -fL --retry 3 "https://gmxmusic.com/dl/hanzo__holy-soul.mp3" -o "audio/phonk/HOLY-SOUL-HANZO.mp3"
+          curl -fL --retry 3 "https://gmxmusic.com/dl/emin-nilsen__emin-nilsen-shakedown.mp3" -o "audio/phonk/SHAKEDOWN-EMIN-NILSEN.mp3"
+          file audio/phonk/*.mp3
+          test "$(wc -c < audio/phonk/HOLY-SOUL-HANZO.mp3)" -gt 100000
+          test "$(wc -c < audio/phonk/SHAKEDOWN-EMIN-NILSEN.mp3)" -gt 100000
+      - name: Save attribution and license records
+        run: |
+          cat > licenses/PHONK-AUDIO-ATTRIBUTION.md <<'EOF'
+          # Audio attribution
+
+          Both files in audio/phonk/ are released under Creative Commons Attribution 4.0 International (CC BY 4.0). Credit the artists and link the source pages.
+
+          - HOLY SOUL — HANZO (2026-11-10): https://gmxmusic.com/tracks/hanzo__holy-soul.html
+            Credit: Music: HANZO - HOLY SOUL — https://www.youtube.com/@hanzothe_phonk?sub_confirmation=1
+          - SHAKEDOWN — Emin Nilsen (2026-11-20): https://gmxmusic.com/tracks/emin-nilsen__emin-nilsen-shakedown.html
+            Credit: Music: Emin Nilsen - SHAKEDOWN — https://music.apple.com/us/artist/emin-nilsen/1045884538
+
+          License: https://creativecommons.org/licenses/by/4.0/
+          The artists retain copyright. Do not claim these recordings as your own.
+          EOF
+      - name: Commit audio files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/phonk licenses/PHONK-AUDIO-ATTRIBUTION.md
+          git diff --cached --quiet || git commit -m "Add two CC BY 4.0 phonk MP3s with attribution"
+          git push
