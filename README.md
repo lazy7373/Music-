@@ -25,3 +25,7 @@ This is a growing archive, not a claim to contain every song released in 2025–
 ## Trending charts
 - `charts/trending-2026-11-21.json` — worldwide and India chart snapshot with official-audio search links.
 - Commercial chart songs are not copied into this repository unless the rights holder explicitly permits MP3 redistribution. The chart file is a discovery index, not an MP3 mirror.
+
+## Five-year song catalogue
+- `catalog/last-five-years-300.json` — 300 discovery entries from 2022–2026, including worldwide and Indian tracks across multiple genres and languages.
+- Each entry includes artist, year, region, and an official-audio search link. Audio files are not included unless redistribution permission is verified.
