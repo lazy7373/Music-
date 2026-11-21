@@ -1,0 +1,178 @@
+{
+  "updated_at": "2026-11-21",
+  "note": "Chart catalogue only. Commercial chart songs are copyrighted; this repository does not mirror their MP3 files. Use official licensed streaming or purchase sources. MP3 mirroring is reserved for tracks whose rights holders explicitly permit redistribution.",
+  "worldwide": {
+    "chart": "Billboard Global 200",
+    "chart_date": "2026-11-21",
+    "source": "https://ca.billboard.com/charts/billboard-global-200/2026-11-21",
+    "tracks": [
+      {
+        "rank": 1,
+        "title": "Housewife",
+        "artist": "Tate McRae",
+        "mp3_file": null,
+        "download_status": "not_downloaded_copyrighted",
+        "search_url": "https://www.youtube.com/results?search_query=Tate%20McRae%20Housewife%20official%20audio"
+      },
+      {
+        "rank": 2,
+        "title": "BbY WOW",
+        "artist": "KAROL G, Judeline & rusowsky",
+        "mp3_file": null,
+        "download_status": "not_downloaded_copyrighted",
+        "search_url": "https://www.youtube.com/results?search_query=KAROL%20G%2C%20Judeline%20%26%20rusowsky%20BbY%20WOW%20official%20audio"
+      },
+      {
+        "rank": 3,
+        "title": "Stop The Wedding!",
+        "artist": "Ashe",
+        "mp3_file": null,
+        "download_status": "not_downloaded_copyrighted",
+        "search_url": "https://www.youtube.com/results?search_query=Ashe%20Stop%20The%20Wedding!%20official%20audio"
+      },
+      {
+        "rank": 4,
+        "title": "Nicole Kidman",
+        "artist": "ADÉLA",
+        "mp3_file": null,
+        "download_status": "not_downloaded_copyrighted",
+        "search_url": "https://www.youtube.com/results?search_query=AD%C3%89LA%20Nicole%20Kidman%20official%20audio"
+      },
+      {
+        "rank": 5,
+        "title": "Choosin' Texas",
+        "artist": "Ella Langley",
+        "mp3_file": null,
+        "download_status": "not_downloaded_copyrighted",
+        "search_url": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas%20official%20audio"
+      },
+      {
+        "rank": 6,
+        "title": "Babydoll",
+        "artist": "Jamie Miller",
+        "mp3_file": null,
+        "download_status": "not_downloaded_copyrighted",
+        "search_url": "https://www.youtube.com/results?search_query=Jamie%20Miller%20Babydoll%20official%20audio"
+      },
+      {
+        "rank": 7,
+        "title": "Ain't In LA",
+        "artist": "ADÉLA",
+        "mp3_file": null,
+        "download_status": "not_downloaded_copyrighted",
+        "search_url": "https://www.youtube.com/results?search_query=AD%C3%89LA%20Ain't%20In%20LA%20official%20audio"
+      },
+      {
+        "rank": 8,
+        "title": "Last Christmas",
+        "artist": "Wham!",
+        "mp3_file": null,
+        "download_status": "not_downloaded_copyrighted",
+        "search_url": "https://www.youtube.com/results?search_query=Wham!%20Last%20Christmas%20official%20audio"
+      },
+      {
+        "rank": 9,
+        "title": "back to friends",
+        "artist": "sombr",
+        "mp3_file": null,
+        "download_status": "not_downloaded_copyrighted",
+        "search_url": "https://www.youtube.com/results?search_query=sombr%20back%20to%20friends%20official%20audio"
+      },
+      {
+        "rank": 10,
+        "title": "the cure",
+        "artist": "Olivia Rodrigo",
+        "mp3_file": null,
+        "download_status": "not_downloaded_copyrighted",
+        "search_url": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20the%20cure%20official%20audio"
+      }
+    ]
+  },
+  "india": {
+    "chart": "Apple Music India Top Songs (via iCharts)",
+    "chart_date": "2026-11-21",
+    "source": "https://www.icharts.co.za/in",
+    "tracks": [
+      {
+        "rank": 1,
+        "title": "Ashke",
+        "artist": "Karan Aujla & MXRCI",
+        "mp3_file": null,
+        "download_status": "not_downloaded_copyrighted",
+        "search_url": "https://www.youtube.com/results?search_query=Karan%20Aujla%20%26%20MXRCI%20Ashke%20official%20audio"
+      },
+      {
+        "rank": 2,
+        "title": "Veezha Veera (From OM Chapter 1: Udhiram - The Blood Wood)",
+        "artist": "Sai Abhyankkar, Tippu & Arun Srinivasan",
+        "mp3_file": null,
+        "download_status": "not_downloaded_copyrighted",
+        "search_url": "https://www.youtube.com/results?search_query=Sai%20Abhyankkar%2C%20Tippu%20%26%20Arun%20Srinivasan%20Veezha%20Veera%20(From%20OM%20Chapter%201%3A%20Udhiram%20-%20The%20Blood%20Wood)%20official%20audio"
+      },
+      {
+        "rank": 3,
+        "title": "Dilruba Dilnasheen",
+        "artist": "Rito Riba & Siddhant Kaushal",
+        "mp3_file": null,
+        "download_status": "not_downloaded_copyrighted",
+        "search_url": "https://www.youtube.com/results?search_query=Rito%20Riba%20%26%20Siddhant%20Kaushal%20Dilruba%20Dilnasheen%20official%20audio"
+      },
+      {
+        "rank": 4,
+        "title": "Straight Up",
+        "artist": "Karan Aujla & MXRCI",
+        "mp3_file": null,
+        "download_status": "not_downloaded_copyrighted",
+        "search_url": "https://www.youtube.com/results?search_query=Karan%20Aujla%20%26%20MXRCI%20Straight%20Up%20official%20audio"
+      },
+      {
+        "rank": 5,
+        "title": "FA FA FA (From O.M: Operation Mole)",
+        "artist": "Sai Abhyankkar & Thamizh Aadhavan",
+        "mp3_file": null,
+        "download_status": "not_downloaded_copyrighted",
+        "search_url": "https://www.youtube.com/results?search_query=Sai%20Abhyankkar%20%26%20Thamizh%20Aadhavan%20FA%20FA%20FA%20(From%20O.M%3A%20Operation%20Mole)%20official%20audio"
+      },
+      {
+        "rank": 6,
+        "title": "Tu Mil Jaaye (From KING)",
+        "artist": "Sachin-Jigar, Arijit Singh, Ed Sheeran, Madhubanti Bagchi & Kumaar",
+        "mp3_file": null,
+        "download_status": "not_downloaded_copyrighted",
+        "search_url": "https://www.youtube.com/results?search_query=Sachin-Jigar%2C%20Arijit%20Singh%2C%20Ed%20Sheeran%2C%20Madhubanti%20Bagchi%20%26%20Kumaar%20Tu%20Mil%20Jaaye%20(From%20KING)%20official%20audio"
+      },
+      {
+        "rank": 7,
+        "title": "Antidote",
+        "artist": "Karan Aujla",
+        "mp3_file": null,
+        "download_status": "not_downloaded_copyrighted",
+        "search_url": "https://www.youtube.com/results?search_query=Karan%20Aujla%20Antidote%20official%20audio"
+      },
+      {
+        "rank": 8,
+        "title": "One Name",
+        "artist": "Anirudh Ravichander & Super Subu",
+        "mp3_file": null,
+        "download_status": "not_downloaded_copyrighted",
+        "search_url": "https://www.youtube.com/results?search_query=Anirudh%20Ravichander%20%26%20Super%20Subu%20One%20Name%20official%20audio"
+      },
+      {
+        "rank": 9,
+        "title": "Gehra Hua",
+        "artist": "Shashwat Sachdev, Arijit Singh, Irshad Kamil & Armaan Khan",
+        "mp3_file": null,
+        "download_status": "not_downloaded_copyrighted",
+        "search_url": "https://www.youtube.com/results?search_query=Shashwat%20Sachdev%2C%20Arijit%20Singh%2C%20Irshad%20Kamil%20%26%20Armaan%20Khan%20Gehra%20Hua%20official%20audio"
+      },
+      {
+        "rank": 10,
+        "title": "Never Left",
+        "artist": "Shubh",
+        "mp3_file": null,
+        "download_status": "not_downloaded_copyrighted",
+        "search_url": "https://www.youtube.com/results?search_query=Shubh%20Never%20Left%20official%20audio"
+      }
+    ]
+  }
+}
