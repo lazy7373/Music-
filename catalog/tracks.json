@@ -4,5 +4,36 @@
     "start": "2025-01-01",
     "end": "2026-12-31"
   },
-  "tracks": []
+  "tracks": [
+    {
+      "title": "HOLY SOUL",
+      "artist": "HANZO",
+      "release_date": "2026-11-10",
+      "genre": "Phonk",
+      "source_page": "https://gmxmusic.com/tracks/hanzo__holy-soul.html",
+      "download_url": "https://gmxmusic.com/dl/hanzo__holy-soul.mp3",
+      "download_format": "MP3 320 kbps",
+      "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "Music: HANZO - HOLY SOUL | https://www.youtube.com/@hanzothe_phonk?sub_confirmation=1 | Free to use with credit via GMXMusic: https://www.youtube.com/@gmxmusicofficial",
+      "redistribution_allowed": true,
+      "file_path": null,
+      "notes": "Artist-published page states CC BY 4.0 and offers an MP3 download. Direct MP3 link is recorded; audio file has not been mirrored into this repository."
+    },
+    {
+      "title": "SHAKEDOWN",
+      "artist": "Emin Nilsen",
+      "release_date": "2026-11-20",
+      "genre": "Phonk",
+      "source_page": "https://gmxmusic.com/tracks/emin-nilsen__emin-nilsen-shakedown.html",
+      "download_url": "https://gmxmusic.com/dl/emin-nilsen__emin-nilsen-shakedown.mp3",
+      "download_format": "MP3 320 kbps",
+      "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "Music: Emin Nilsen - SHAKEDOWN | https://music.apple.com/us/artist/emin-nilsen/1045884538 | Free to use with credit via GMXMusic: https://www.youtube.com/@gmxmusicofficial",
+      "redistribution_allowed": true,
+      "file_path": null,
+      "notes": "Artist-published page states CC BY 4.0 and offers an MP3 download. Direct MP3 link is recorded; audio file has not been mirrored into this repository."
+    }
+  ]
 }
