@@ -1,0 +1,2401 @@
+{
+  "catalogue_version": "2.0",
+  "coverage_years": "2022-2026",
+  "created_at": "2026-11-21",
+  "count": 239,
+  "target_minimum": 300,
+  "description": "Curated discovery index of popular worldwide and Indian tracks across multiple genres and languages. This is not a claim of a definitive official ranking.",
+  "audio_policy": "No copyrighted MP3 files are included. Add audio only where the rights holder explicitly permits standalone redistribution.",
+  "entries": [
+    {
+      "title": "As It Was",
+      "artist": "Harry Styles",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Harry%20Styles%20As%20It%20Was%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Glass%20Animals%20Heat%20Waves%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Stay",
+      "artist": "The Kid LAROI & Justin Bieber",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=The%20Kid%20LAROI%20%26%20Justin%20Bieber%20Stay%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "About Damn Time",
+      "artist": "Lizzo",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Lizzo%20About%20Damn%20Time%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "First Class",
+      "artist": "Jack Harlow",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Jack%20Harlow%20First%20Class%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Super Freaky Girl",
+      "artist": "Nicki Minaj",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Nicki%20Minaj%20Super%20Freaky%20Girl%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Anti-Hero",
+      "artist": "Taylor Swift",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Anti-Hero%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Unholy",
+      "artist": "Sam Smith & Kim Petras",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Sam%20Smith%20%26%20Kim%20Petras%20Unholy%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "I'm Good (Blue)",
+      "artist": "David Guetta & Bebe Rexha",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=David%20Guetta%20%26%20Bebe%20Rexha%20I'm%20Good%20(Blue)%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Calm Down",
+      "artist": "Rema & Selena Gomez",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Rema%20%26%20Selena%20Gomez%20Calm%20Down%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Made You Look",
+      "artist": "Meghan Trainor",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Meghan%20Trainor%20Made%20You%20Look%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Late Night Talking",
+      "artist": "Harry Styles",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Harry%20Styles%20Late%20Night%20Talking%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Sunroof",
+      "artist": "Nicky Youre & dazy",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Nicky%20Youre%20%26%20dazy%20Sunroof%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Enemy",
+      "artist": "Imagine Dragons & JID",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Imagine%20Dragons%20%26%20JID%20Enemy%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "abcdefu",
+      "artist": "GAYLE",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=GAYLE%20abcdefu%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Bad Habit",
+      "artist": "Steve Lacy",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Steve%20Lacy%20Bad%20Habit%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Running Up That Hill",
+      "artist": "Kate Bush",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Kate%20Bush%20Running%20Up%20That%20Hill%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Shivers",
+      "artist": "Ed Sheeran",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Ed%20Sheeran%20Shivers%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Ghost",
+      "artist": "Justin Bieber",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Justin%20Bieber%20Ghost%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Woman",
+      "artist": "Doja Cat",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Doja%20Cat%20Woman%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Pink Venom",
+      "artist": "BLACKPINK",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=BLACKPINK%20Pink%20Venom%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Shut Down",
+      "artist": "BLACKPINK",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=BLACKPINK%20Shut%20Down%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Dynamite",
+      "artist": "BTS",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=BTS%20Dynamite%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Left and Right",
+      "artist": "Charlie Puth & Jung Kook",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Charlie%20Puth%20%26%20Jung%20Kook%20Left%20and%20Right%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Glimpse of Us",
+      "artist": "Joji",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Joji%20Glimpse%20of%20Us%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "I Ain't Worried",
+      "artist": "OneRepublic",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=OneRepublic%20I%20Ain't%20Worried%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Vegas",
+      "artist": "Doja Cat",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Doja%20Cat%20Vegas%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Jimmy Cooks",
+      "artist": "Drake ft. 21 Savage",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Drake%20ft.%2021%20Savage%20Jimmy%20Cooks%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Wait for U",
+      "artist": "Future ft. Drake & Tems",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Future%20ft.%20Drake%20%26%20Tems%20Wait%20for%20U%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Golden Hour",
+      "artist": "JVKE",
+      "release_year": 2022,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=JVKE%20Golden%20Hour%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Flowers",
+      "artist": "Miley Cyrus",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Miley%20Cyrus%20Flowers%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Kill Bill",
+      "artist": "SZA",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=SZA%20Kill%20Bill%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Seven",
+      "artist": "Jung Kook ft. Latto",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Jung%20Kook%20ft.%20Latto%20Seven%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Vampire",
+      "artist": "Olivia Rodrigo",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20Vampire%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Cruel%20Summer%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Creepin'",
+      "artist": "Metro Boomin, The Weeknd & 21 Savage",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Metro%20Boomin%2C%20The%20Weeknd%20%26%2021%20Savage%20Creepin'%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Last Night",
+      "artist": "Morgan Wallen",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Morgan%20Wallen%20Last%20Night%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Un X100to",
+      "artist": "Grupo Frontera & Bad Bunny",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Grupo%20Frontera%20%26%20Bad%20Bunny%20Un%20X100to%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Ella Baila Sola",
+      "artist": "Eslabon Armado & Peso Pluma",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Eslabon%20Armado%20%26%20Peso%20Pluma%20Ella%20Baila%20Sola%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Cupid",
+      "artist": "Fifty Fifty",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Fifty%20Fifty%20Cupid%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Paint The Town Red",
+      "artist": "Doja Cat",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Doja%20Cat%20Paint%20The%20Town%20Red%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Dance The Night",
+      "artist": "Dua Lipa",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Dua%20Lipa%20Dance%20The%20Night%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "What Was I Made For?",
+      "artist": "Billie Eilish",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Billie%20Eilish%20What%20Was%20I%20Made%20For%3F%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Boy's a liar Pt. 2",
+      "artist": "PinkPantheress & Ice Spice",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=PinkPantheress%20%26%20Ice%20Spice%20Boy's%20a%20liar%20Pt.%202%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Players",
+      "artist": "Coi Leray",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Coi%20Leray%20Players%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Fast Car",
+      "artist": "Luke Combs",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Luke%20Combs%20Fast%20Car%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Daylight",
+      "artist": "David Kushner",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=David%20Kushner%20Daylight%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Escapism.",
+      "artist": "RAYE ft. 070 Shake",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=RAYE%20ft.%20070%20Shake%20Escapism.%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Rich Flex",
+      "artist": "Drake & 21 Savage",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Drake%20%26%2021%20Savage%20Rich%20Flex%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Snooze",
+      "artist": "SZA",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=SZA%20Snooze%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "La Bebe",
+      "artist": "Yng Lvcas & Peso Pluma",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Yng%20Lvcas%20%26%20Peso%20Pluma%20La%20Bebe%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "TQG",
+      "artist": "Karol G & Shakira",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Karol%20G%20%26%20Shakira%20TQG%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Karma",
+      "artist": "Taylor Swift ft. Ice Spice",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Taylor%20Swift%20ft.%20Ice%20Spice%20Karma%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Popular",
+      "artist": "The Weeknd, Playboi Carti & Madonna",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=The%20Weeknd%2C%20Playboi%20Carti%20%26%20Madonna%20Popular%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "I'm Not Here To Make Friends",
+      "artist": "Sam Smith",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Sam%20Smith%20I'm%20Not%20Here%20To%20Make%20Friends%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Love Again",
+      "artist": "The Kid LAROI",
+      "release_year": 2023,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=The%20Kid%20LAROI%20Love%20Again%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Beautiful Things",
+      "artist": "Benson Boone",
+      "release_year": 2026,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Benson%20Boone%20Beautiful%20Things%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "release_year": 2026,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Sabrina%20Carpenter%20Espresso%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Birds of a Feather",
+      "artist": "Billie Eilish",
+      "release_year": 2026,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Billie%20Eilish%20Birds%20of%20a%20Feather%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Lose Control",
+      "artist": "Teddy Swims",
+      "release_year": 2026,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Teddy%20Swims%20Lose%20Control%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "A Bar Song (Tipsy)",
+      "artist": "Shaboozey",
+      "release_year": 2024,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Shaboozey%20A%20Bar%20Song%20(Tipsy)%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Too Sweet",
+      "artist": "Hozier",
+      "release_year": 2024,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Hozier%20Too%20Sweet%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "release_year": 2026,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Kendrick%20Lamar%20Not%20Like%20Us%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Die With A Smile",
+      "artist": "Lady Gaga & Bruno Mars",
+      "release_year": 2026,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Lady%20Gaga%20%26%20Bruno%20Mars%20Die%20With%20A%20Smile%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "APT.",
+      "artist": "ROSÉ & Bruno Mars",
+      "release_year": 2026,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=ROS%C3%89%20%26%20Bruno%20Mars%20APT.%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Good Luck, Babe!",
+      "artist": "Chappell Roan",
+      "release_year": 2024,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Chappell%20Roan%20Good%20Luck%2C%20Babe!%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Please Please Please",
+      "artist": "Sabrina Carpenter",
+      "release_year": 2025,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Sabrina%20Carpenter%20Please%20Please%20Please%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Taste",
+      "artist": "Sabrina Carpenter",
+      "release_year": 2024,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Sabrina%20Carpenter%20Taste%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "I Had Some Help",
+      "artist": "Post Malone ft. Morgan Wallen",
+      "release_year": 2024,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Post%20Malone%20ft.%20Morgan%20Wallen%20I%20Had%20Some%20Help%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Fortnight",
+      "artist": "Taylor Swift ft. Post Malone",
+      "release_year": 2024,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Taylor%20Swift%20ft.%20Post%20Malone%20Fortnight%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Texas Hold 'Em",
+      "artist": "Beyoncé",
+      "release_year": 2024,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Beyonc%C3%A9%20Texas%20Hold%20'Em%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "We Can't Be Friends",
+      "artist": "Ariana Grande",
+      "release_year": 2024,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Ariana%20Grande%20We%20Can't%20Be%20Friends%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Gata Only",
+      "artist": "FloyyMenor & Cris Mj",
+      "release_year": 2024,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=FloyyMenor%20%26%20Cris%20Mj%20Gata%20Only%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "I Like The Way You Kiss Me",
+      "artist": "Artemas",
+      "release_year": 2024,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Artemas%20I%20Like%20The%20Way%20You%20Kiss%20Me%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Stargazing",
+      "artist": "Myles Smith",
+      "release_year": 2025,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Myles%20Smith%20Stargazing%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Houdini",
+      "artist": "Eminem",
+      "release_year": 2024,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Eminem%20Houdini%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "LUNCH",
+      "artist": "Billie Eilish",
+      "release_year": 2024,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Billie%20Eilish%20LUNCH%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Chihiro",
+      "artist": "Billie Eilish",
+      "release_year": 2024,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Billie%20Eilish%20Chihiro%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "The Boy Is Mine",
+      "artist": "Ariana Grande",
+      "release_year": 2024,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Ariana%20Grande%20The%20Boy%20Is%20Mine%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Million Dollar Baby",
+      "artist": "Tommy Richman",
+      "release_year": 2024,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Tommy%20Richman%20Million%20Dollar%20Baby%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Si Antes Te Hubiera Conocido",
+      "artist": "KAROL G",
+      "release_year": 2024,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=KAROL%20G%20Si%20Antes%20Te%20Hubiera%20Conocido%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "BAND4BAND",
+      "artist": "Central Cee & Lil Baby",
+      "release_year": 2024,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Central%20Cee%20%26%20Lil%20Baby%20BAND4BAND%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "release_year": 2025,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Jimin%20Who%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Golden",
+      "artist": "HUNTR/X",
+      "release_year": 2026,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=HUNTR%2FX%20Golden%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "release_year": 2026,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Taylor%20Swift%20The%20Fate%20of%20Ophelia%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "release_year": 2026,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "release_year": 2026,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Anxiety",
+      "artist": "Doechii",
+      "release_year": 2025,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Doechii%20Anxiety%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Luther",
+      "artist": "Kendrick Lamar & SZA",
+      "release_year": 2025,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Kendrick%20Lamar%20%26%20SZA%20Luther%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "That's So True",
+      "artist": "Gracie Abrams",
+      "release_year": 2025,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Gracie%20Abrams%20That's%20So%20True%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "release_year": 2025,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Chappell%20Roan%20Pink%20Pony%20Club%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Sports car",
+      "artist": "Tate McRae",
+      "release_year": 2025,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Tate%20McRae%20Sports%20car%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Messy",
+      "artist": "Lola Young",
+      "release_year": 2025,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Lola%20Young%20Messy%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Sailor Song",
+      "artist": "Gigi Perez",
+      "release_year": 2025,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Gigi%20Perez%20Sailor%20Song%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Love Me Not",
+      "artist": "Ravyn Lenae",
+      "release_year": 2025,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Ravyn%20Lenae%20Love%20Me%20Not%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Nokia",
+      "artist": "Drake",
+      "release_year": 2025,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Drake%20Nokia%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "What I Want",
+      "artist": "Morgan Wallen ft. Tate McRae",
+      "release_year": 2025,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Morgan%20Wallen%20ft.%20Tate%20McRae%20What%20I%20Want%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Just in Case",
+      "artist": "Morgan Wallen",
+      "release_year": 2025,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Morgan%20Wallen%20Just%20in%20Case%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Pink Skies",
+      "artist": "Zach Bryan",
+      "release_year": 2025,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Zach%20Bryan%20Pink%20Skies%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Timeless",
+      "artist": "The Weeknd & Playboi Carti",
+      "release_year": 2025,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=The%20Weeknd%20%26%20Playboi%20Carti%20Timeless%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Housewife",
+      "artist": "Tate McRae",
+      "release_year": 2026,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Tate%20McRae%20Housewife%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Babydoll",
+      "artist": "Jamie Miller",
+      "release_year": 2026,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Jamie%20Miller%20Babydoll%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "back to friends",
+      "artist": "sombr",
+      "release_year": 2026,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=sombr%20back%20to%20friends%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "release_year": 2026,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Ain't In LA",
+      "artist": "ADÉLA",
+      "release_year": 2026,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=AD%C3%89LA%20Ain't%20In%20LA%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Stop The Wedding!",
+      "artist": "Ashe",
+      "release_year": 2026,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Ashe%20Stop%20The%20Wedding!%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Bby Wow",
+      "artist": "KAROL G, Judeline & rusowsky",
+      "release_year": 2026,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=KAROL%20G%2C%20Judeline%20%26%20rusowsky%20Bby%20Wow%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Nicole Kidman",
+      "artist": "ADÉLA",
+      "release_year": 2026,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=AD%C3%89LA%20Nicole%20Kidman%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Last Christmas",
+      "artist": "Wham!",
+      "release_year": 2026,
+      "region": "Worldwide",
+      "source_search_url": "https://www.youtube.com/results?search_query=Wham!%20Last%20Christmas%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Kesariya",
+      "artist": "Arijit Singh, Pritam",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Arijit%20Singh%2C%20Pritam%20Kesariya%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Brahmastra Title Track",
+      "artist": "Pritam & Arijit Singh",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Pritam%20%26%20Arijit%20Singh%20Brahmastra%20Title%20Track%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Deva Deva",
+      "artist": "Arijit Singh & Jonita Gandhi",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Arijit%20Singh%20%26%20Jonita%20Gandhi%20Deva%20Deva%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Apna Bana Le",
+      "artist": "Arijit Singh & Sachin-Jigar",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Arijit%20Singh%20%26%20Sachin-Jigar%20Apna%20Bana%20Le%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Raatan Lambiyan",
+      "artist": "Jubin Nautiyal & Asees Kaur",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Jubin%20Nautiyal%20%26%20Asees%20Kaur%20Raatan%20Lambiyan%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Srivalli",
+      "artist": "Sid Sriram",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Sid%20Sriram%20Srivalli%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Oo Antava",
+      "artist": "Indravathi Chauhan",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Indravathi%20Chauhan%20Oo%20Antava%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Arabic Kuthu",
+      "artist": "Anirudh Ravichander & Jonita Gandhi",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Anirudh%20Ravichander%20%26%20Jonita%20Gandhi%20Arabic%20Kuthu%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Megham Karukatha",
+      "artist": "Dhanush",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Dhanush%20Megham%20Karukatha%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Jalabulajangu",
+      "artist": "Anirudh Ravichander",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Anirudh%20Ravichander%20Jalabulajangu%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "The Life of Ram",
+      "artist": "Pradeep Kumar",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Pradeep%20Kumar%20The%20Life%20of%20Ram%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Kumkumala",
+      "artist": "Sid Sriram",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Sid%20Sriram%20Kumkumala%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Pasoori",
+      "artist": "Ali Sethi & Shae Gill",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Ali%20Sethi%20%26%20Shae%20Gill%20Pasoori%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Maan Meri Jaan",
+      "artist": "King",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=King%20Maan%20Meri%20Jaan%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": " ik Tera Pyar",
+      "artist": "Asees Kaur",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Asees%20Kaur%20%20ik%20Tera%20Pyar%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Excuses",
+      "artist": "AP Dhillon, Gurinder Gill & Intense",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=AP%20Dhillon%2C%20Gurinder%20Gill%20%26%20Intense%20Excuses%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Insane",
+      "artist": "AP Dhillon, Gurinder Gill & Shinda Kahlon",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=AP%20Dhillon%2C%20Gurinder%20Gill%20%26%20Shinda%20Kahlon%20Insane%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Baarish Mein Tum",
+      "artist": "Neha Kakkar & Rohanpreet Singh",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Neha%20Kakkar%20%26%20Rohanpreet%20Singh%20Baarish%20Mein%20Tum%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Thumkeshwari",
+      "artist": "Divya Kumar, Rashmeet Kaur & Sachin-Jigar",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Divya%20Kumar%2C%20Rashmeet%20Kaur%20%26%20Sachin-Jigar%20Thumkeshwari%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Jehda Nasha",
+      "artist": "Amar Jalal, IP Singh, Yohani & Harjot Kaur",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Amar%20Jalal%2C%20IP%20Singh%2C%20Yohani%20%26%20Harjot%20Kaur%20Jehda%20Nasha%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Kahani Suno 2.0",
+      "artist": "Kaifi Khalil",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Kaifi%20Khalil%20Kahani%20Suno%202.0%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Tu Aake Dekhle",
+      "artist": "King",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=King%20Tu%20Aake%20Dekhle%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Jhoome Jo Pathaan",
+      "artist": "Arijit Singh & Sukriti Kakar",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Arijit%20Singh%20%26%20Sukriti%20Kakar%20Jhoome%20Jo%20Pathaan%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Besharam Rang",
+      "artist": "Shilpa Rao, Caralisa Monteiro, Vishal-Shekhar",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Shilpa%20Rao%2C%20Caralisa%20Monteiro%2C%20Vishal-Shekhar%20Besharam%20Rang%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Tere Vaaste",
+      "artist": "Varun Jain, Shadab Faridi & Sachin-Jigar",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Varun%20Jain%2C%20Shadab%20Faridi%20%26%20Sachin-Jigar%20Tere%20Vaaste%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Manike",
+      "artist": "Yohani, Jubin Nautiyal & Surya Ragunaathan",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Yohani%2C%20Jubin%20Nautiyal%20%26%20Surya%20Ragunaathan%20Manike%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Bhool Bhulaiyaa 2 Title Track",
+      "artist": "Neeraj Shridhar",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Neeraj%20Shridhar%20Bhool%20Bhulaiyaa%202%20Title%20Track%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Dil Galti Kar Baitha Hai",
+      "artist": "Jubin Nautiyal",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Jubin%20Nautiyal%20Dil%20Galti%20Kar%20Baitha%20Hai%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Dholida",
+      "artist": "Janhvi Shrimankar & Shail Hada",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Janhvi%20Shrimankar%20%26%20Shail%20Hada%20Dholida%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Naatu Naatu",
+      "artist": "Rahul Sipligunj & Kaala Bhairava",
+      "release_year": 2022,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Rahul%20Sipligunj%20%26%20Kaala%20Bhairava%20Naatu%20Naatu%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Heeriye",
+      "artist": "Jasleen Royal ft. Arijit Singh",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Jasleen%20Royal%20ft.%20Arijit%20Singh%20Heeriye%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "What Jhumka?",
+      "artist": "Arijit Singh & Jonita Gandhi",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Arijit%20Singh%20%26%20Jonita%20Gandhi%20What%20Jhumka%3F%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Chaleya",
+      "artist": "Arijit Singh & Shilpa Rao",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Arijit%20Singh%20%26%20Shilpa%20Rao%20Chaleya%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Lutt Putt Gaya",
+      "artist": "Arijit Singh",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Arijit%20Singh%20Lutt%20Putt%20Gaya%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Satranga",
+      "artist": "Arijit Singh",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Arijit%20Singh%20Satranga%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Pehle Bhi Main",
+      "artist": "Vishal Mishra",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Vishal%20Mishra%20Pehle%20Bhi%20Main%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Arjan Vailly",
+      "artist": "Bhupinder Babbal",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Bhupinder%20Babbal%20Arjan%20Vailly%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "O Maahi",
+      "artist": "Arijit Singh",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Arijit%20Singh%20O%20Maahi%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Zihaal e Miskin",
+      "artist": "Javed-Mohsin, Vishal Mishra & Shreya Ghoshal",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Javed-Mohsin%2C%20Vishal%20Mishra%20%26%20Shreya%20Ghoshal%20Zihaal%20e%20Miskin%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Apna Bana Le",
+      "artist": "Arijit Singh",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Arijit%20Singh%20Apna%20Bana%20Le%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Tu Hai Kahan",
+      "artist": "AUR",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=AUR%20Tu%20Hai%20Kahan%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Husn",
+      "artist": "Anuv Jain",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Anuv%20Jain%20Husn%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Gul",
+      "artist": "Anuv Jain",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Anuv%20Jain%20Gul%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Ishq",
+      "artist": "Amir Ameer",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Amir%20Ameer%20Ishq%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Players",
+      "artist": "Badshah & Karan Aujla",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Badshah%20%26%20Karan%20Aujla%20Players%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Obsessed",
+      "artist": "Riar Saab & Abhijay Sharma",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Riar%20Saab%20%26%20Abhijay%20Sharma%20Obsessed%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "With You",
+      "artist": "AP Dhillon",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=AP%20Dhillon%20With%20You%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Still Rollin",
+      "artist": "Shubh",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Shubh%20Still%20Rollin%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Cheques",
+      "artist": "Shubh",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Shubh%20Cheques%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Elevated",
+      "artist": "Shubh",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Shubh%20Elevated%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "No Love",
+      "artist": "Shubh",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Shubh%20No%20Love%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "One Love",
+      "artist": "Shubh",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Shubh%20One%20Love%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Softly",
+      "artist": "Karan Aujla",
+      "release_year": 2026,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Karan%20Aujla%20Softly%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Admiring You",
+      "artist": "Karan Aujla & Ikky",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Karan%20Aujla%20%26%20Ikky%20Admiring%20You%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "52 Bars",
+      "artist": "Karan Aujla",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Karan%20Aujla%2052%20Bars%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "On Top",
+      "artist": "Karan Aujla",
+      "release_year": 2026,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Karan%20Aujla%20On%20Top%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Teri Baaton Mein Aisa Uljha Jiya",
+      "artist": "Raghav, Tanishk Bagchi & Asees Kaur",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Raghav%2C%20Tanishk%20Bagchi%20%26%20Asees%20Kaur%20Teri%20Baaton%20Mein%20Aisa%20Uljha%20Jiya%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Jamal Kudu",
+      "artist": "Harshavardhan Rameshwar",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Harshavardhan%20Rameshwar%20Jamal%20Kudu%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Zinda Banda",
+      "artist": "Anirudh Ravichander",
+      "release_year": 2023,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Anirudh%20Ravichander%20Zinda%20Banda%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Sajni",
+      "artist": "Ram Sampath & Arijit Singh",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Ram%20Sampath%20%26%20Arijit%20Singh%20Sajni%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Aaj Ki Raat",
+      "artist": "Madhubanti Bagchi, Divya Kumar & Sachin-Jigar",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Madhubanti%20Bagchi%2C%20Divya%20Kumar%20%26%20Sachin-Jigar%20Aaj%20Ki%20Raat%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Tauba Tauba",
+      "artist": "Karan Aujla",
+      "release_year": 2026,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Karan%20Aujla%20Tauba%20Tauba%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Aayi Nai",
+      "artist": "Pawan Singh, Simran Choudhary & Divya Kumar",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Pawan%20Singh%2C%20Simran%20Choudhary%20%26%20Divya%20Kumar%20Aayi%20Nai%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Akhiyaan Gulaab",
+      "artist": "Mitraz",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Mitraz%20Akhiyaan%20Gulaab%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Ishq Jaisa Kuch",
+      "artist": "Vishal-Shekhar, Shilpa Rao & Shilpa Rao",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Vishal-Shekhar%2C%20Shilpa%20Rao%20%26%20Shilpa%20Rao%20Ishq%20Jaisa%20Kuch%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Jo Tum Mere Ho",
+      "artist": "Anuv Jain",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Anuv%20Jain%20Jo%20Tum%20Mere%20Ho%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Finding Her",
+      "artist": "Kushagra",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Kushagra%20Finding%20Her%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Mahiye Jinna Sohna",
+      "artist": "Darshan Raval",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Darshan%20Raval%20Mahiye%20Jinna%20Sohna%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Soulmate",
+      "artist": "Badshah & Arijit Singh",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Badshah%20%26%20Arijit%20Singh%20Soulmate%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Naina",
+      "artist": "Diljit Dosanjh & Badshah",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Diljit%20Dosanjh%20%26%20Badshah%20Naina%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Lover",
+      "artist": "Diljit Dosanjh",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Diljit%20Dosanjh%20Lover%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Kinni Kinni",
+      "artist": "Diljit Dosanjh",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Diljit%20Dosanjh%20Kinni%20Kinni%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Born to Shine",
+      "artist": "Diljit Dosanjh",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Diljit%20Dosanjh%20Born%20to%20Shine%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Millionaire",
+      "artist": "Yo Yo Honey Singh",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Yo%20Yo%20Honey%20Singh%20Millionaire%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Payal",
+      "artist": "Yo Yo Honey Singh",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Yo%20Yo%20Honey%20Singh%20Payal%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Jatt Mehkma",
+      "artist": "Yo Yo Honey Singh",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Yo%20Yo%20Honey%20Singh%20Jatt%20Mehkma%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Aasa Kooda",
+      "artist": "Sai Abhyankkar & Sai Smriti",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Sai%20Abhyankkar%20%26%20Sai%20Smriti%20Aasa%20Kooda%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Katchi Sera",
+      "artist": "Sai Abhyankkar",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Sai%20Abhyankkar%20Katchi%20Sera%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Manasilaayo",
+      "artist": "Anirudh Ravichander & Malaysia Vasudevan",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Anirudh%20Ravichander%20%26%20Malaysia%20Vasudevan%20Manasilaayo%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Water Packet",
+      "artist": "Santhosh Narayanan & Shweta Mohan",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Santhosh%20Narayanan%20%26%20Shweta%20Mohan%20Water%20Packet%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Kaavaalaa",
+      "artist": "Shilpa Rao & Anirudh Ravichander",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Shilpa%20Rao%20%26%20Anirudh%20Ravichander%20Kaavaalaa%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Hukum",
+      "artist": "Anirudh Ravichander",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Anirudh%20Ravichander%20Hukum%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Badass",
+      "artist": "Anirudh Ravichander",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Anirudh%20Ravichander%20Badass%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Chuttamalle",
+      "artist": "Shilpa Rao",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Shilpa%20Rao%20Chuttamalle%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Fear Song",
+      "artist": "Anirudh Ravichander",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Anirudh%20Ravichander%20Fear%20Song%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Sooseki",
+      "artist": "Shreya Ghoshal",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Shreya%20Ghoshal%20Sooseki%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Pushpa Pushpa",
+      "artist": "Mika Singh & Nakash Aziz",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Mika%20Singh%20%26%20Nakash%20Aziz%20Pushpa%20Pushpa%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Kurchi Madathapetti",
+      "artist": "Sahithi Chaganti & Sri Krishna",
+      "release_year": 2024,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Sahithi%20Chaganti%20%26%20Sri%20Krishna%20Kurchi%20Madathapetti%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Shaky",
+      "artist": "Sanju Rathod & G-Spark",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Sanju%20Rathod%20%26%20G-Spark%20Shaky%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Ranjha",
+      "artist": "Jasleen Royal & B Praak",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Jasleen%20Royal%20%26%20B%20Praak%20Ranjha%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Dhurandhar Title Track",
+      "artist": "Shashwat Sachdev",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Shashwat%20Sachdev%20Dhurandhar%20Title%20Track%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "FA9LA",
+      "artist": "Flipperachi",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Flipperachi%20FA9LA%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Shararat",
+      "artist": "Shashwat Sachdev & Madhubanti Bagchi",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Shashwat%20Sachdev%20%26%20Madhubanti%20Bagchi%20Shararat%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Aavan Jaavan",
+      "artist": "Pritam, Arijit Singh & Nikhita Gandhi",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Pritam%2C%20Arijit%20Singh%20%26%20Nikhita%20Gandhi%20Aavan%20Jaavan%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Saiyaara",
+      "artist": "Faheem Abdullah & Arslan Nizami",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Faheem%20Abdullah%20%26%20Arslan%20Nizami%20Saiyaara%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Barbaad",
+      "artist": "The Rish",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=The%20Rish%20Barbaad%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Tum Ho Toh",
+      "artist": "Vishal Mishra",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Vishal%20Mishra%20Tum%20Ho%20Toh%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Teri Deewani",
+      "artist": "Kailash Kher",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Kailash%20Kher%20Teri%20Deewani%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Laal Pari",
+      "artist": "Yo Yo Honey Singh",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Yo%20Yo%20Honey%20Singh%20Laal%20Pari%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Morni",
+      "artist": "Badshah & Sharvi Yadav",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Badshah%20%26%20Sharvi%20Yadav%20Morni%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Ghafoor",
+      "artist": "Aditya Rikhari",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Aditya%20Rikhari%20Ghafoor%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Ishq Hai",
+      "artist": "Anurag Saikia & Raj Shekhar",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Anurag%20Saikia%20%26%20Raj%20Shekhar%20Ishq%20Hai%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Aankhon Se Batana",
+      "artist": "Dikshant",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Dikshant%20Aankhon%20Se%20Batana%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Jhol",
+      "artist": "Maanu & Annural Khalid",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Maanu%20%26%20Annural%20Khalid%20Jhol%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Haseen",
+      "artist": "Talwiinder & NDS",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Talwiinder%20%26%20NDS%20Haseen%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Wishes",
+      "artist": "Hasan Raheem & Umair",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Hasan%20Raheem%20%26%20Umair%20Wishes%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Big Dawgs",
+      "artist": "Hanumankind & Kalmi",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Hanumankind%20%26%20Kalmi%20Big%20Dawgs%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Run It Up",
+      "artist": "Hanumankind",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Hanumankind%20Run%20It%20Up%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Aasa Kooda",
+      "artist": "Sai Abhyankkar",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Sai%20Abhyankkar%20Aasa%20Kooda%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Vazhithunaiye",
+      "artist": "Sid Sriram & Sanjana Kalmanje",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Sid%20Sriram%20%26%20Sanjana%20Kalmanje%20Vazhithunaiye%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Golden Sparrow",
+      "artist": "Dhanush, Arivu & G.V. Prakash Kumar",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Dhanush%2C%20Arivu%20%26%20G.V.%20Prakash%20Kumar%20Golden%20Sparrow%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Makkamishi",
+      "artist": "Dhanush & G.V. Prakash Kumar",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Dhanush%20%26%20G.V.%20Prakash%20Kumar%20Makkamishi%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Oorum Blood",
+      "artist": "Sai Abhyankkar",
+      "release_year": 2025,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Sai%20Abhyankkar%20Oorum%20Blood%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Ashke",
+      "artist": "Karan Aujla & MXRCI",
+      "release_year": 2026,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Karan%20Aujla%20%26%20MXRCI%20Ashke%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Straight Up",
+      "artist": "Karan Aujla & MXRCI",
+      "release_year": 2026,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Karan%20Aujla%20%26%20MXRCI%20Straight%20Up%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Antidote",
+      "artist": "Karan Aujla",
+      "release_year": 2026,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Karan%20Aujla%20Antidote%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Veezha Veera",
+      "artist": "Sai Abhyankkar, Tippu & Arun Srinivasan",
+      "release_year": 2026,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Sai%20Abhyankkar%2C%20Tippu%20%26%20Arun%20Srinivasan%20Veezha%20Veera%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Dilruba Dilnasheen",
+      "artist": "Rito Riba & Siddhant Kaushal",
+      "release_year": 2026,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Rito%20Riba%20%26%20Siddhant%20Kaushal%20Dilruba%20Dilnasheen%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "FA FA FA",
+      "artist": "Sai Abhyankkar & Thamizh Aadhavan",
+      "release_year": 2026,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Sai%20Abhyankkar%20%26%20Thamizh%20Aadhavan%20FA%20FA%20FA%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Tu Mil Jaaye",
+      "artist": "Sachin-Jigar & Arijit Singh",
+      "release_year": 2026,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Sachin-Jigar%20%26%20Arijit%20Singh%20Tu%20Mil%20Jaaye%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "One Name",
+      "artist": "Anirudh Ravichander & Super Subu",
+      "release_year": 2026,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Anirudh%20Ravichander%20%26%20Super%20Subu%20One%20Name%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Gehra Hua",
+      "artist": "Shashwat Sachdev & Arijit Singh",
+      "release_year": 2026,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Shashwat%20Sachdev%20%26%20Arijit%20Singh%20Gehra%20Hua%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Never Left",
+      "artist": "Shubh",
+      "release_year": 2026,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Shubh%20Never%20Left%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Sapphire",
+      "artist": "Ed Sheeran & Arijit Singh",
+      "release_year": 2026,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Ed%20Sheeran%20%26%20Arijit%20Singh%20Sapphire%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Aaj Se Teri",
+      "artist": "Arijit Singh",
+      "release_year": 2026,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Arijit%20Singh%20Aaj%20Se%20Teri%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Jaan Se Guzarte Hain",
+      "artist": "Arijit Singh",
+      "release_year": 2026,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Arijit%20Singh%20Jaan%20Se%20Guzarte%20Hain%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Duniya Alag",
+      "artist": "Karan Aujla",
+      "release_year": 2026,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Karan%20Aujla%20Duniya%20Alag%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Jee Ni Lagda",
+      "artist": "Karan Aujla",
+      "release_year": 2026,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Karan%20Aujla%20Jee%20Ni%20Lagda%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Winning Speech",
+      "artist": "Karan Aujla",
+      "release_year": 2026,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Karan%20Aujla%20Winning%20Speech%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    },
+    {
+      "title": "Wavy",
+      "artist": "Karan Aujla",
+      "release_year": 2026,
+      "region": "India",
+      "source_search_url": "https://www.youtube.com/results?search_query=Karan%20Aujla%20Wavy%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
+    }
+  ]
+}
