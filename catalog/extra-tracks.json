@@ -29,6 +29,21 @@
       "audio_file": null,
       "redistribution_permission": "not_verified",
       "note": "Male version of the requested song. Commercial recording; do not mirror the MP3 without explicit redistribution permission."
+    },
+    {
+      "title": "Udaarian (Uddariyaan)",
+      "artists": [
+        "Satinder Sartaaj"
+      ],
+      "album": "Seasons of Sartaaj",
+      "release_year": 2018,
+      "language": "Punjabi",
+      "music": "Jatinder Shah",
+      "label": "Saga Music",
+      "official_audio": "https://www.youtube.com/watch?v=WqHzTIjoooQ",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "note": "Requested bonus track. Released in 2018, outside the 2022–2026 catalogue window. Commercial recording; do not upload or redistribute the MP3 without explicit permission."
     }
   ]
 }
