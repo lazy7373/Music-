@@ -12,13 +12,15 @@ permissions:
 jobs:
   download:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - name: Download tracks released under CC BY 4.0
         run: |
+          set -euo pipefail
           mkdir -p audio/phonk licenses
-          curl -fL --retry 3 "https://gmxmusic.com/dl/hanzo__holy-soul.mp3" -o "audio/phonk/HOLY-SOUL-HANZO.mp3"
-          curl -fL --retry 3 "https://gmxmusic.com/dl/emin-nilsen__emin-nilsen-shakedown.mp3" -o "audio/phonk/SHAKEDOWN-EMIN-NILSEN.mp3"
+          curl --fail --location --retry 3 --retry-all-errors "https://gmxmusic.com/dl/hanzo__holy-soul.mp3" --output "audio/phonk/HOLY-SOUL-HANZO.mp3"
+          curl --fail --location --retry 3 --retry-all-errors "https://gmxmusic.com/dl/emin-nilsen__emin-nilsen-shakedown.mp3" --output "audio/phonk/SHAKEDOWN-EMIN-NILSEN.mp3"
           file audio/phonk/*.mp3
           test "$(wc -c < audio/phonk/HOLY-SOUL-HANZO.mp3)" -gt 100000
           test "$(wc -c < audio/phonk/SHAKEDOWN-EMIN-NILSEN.mp3)" -gt 100000
@@ -27,7 +29,7 @@ jobs:
           cat > licenses/PHONK-AUDIO-ATTRIBUTION.md <<'EOF'
           # Audio attribution
 
-          Both files in audio/phonk/ are released under Creative Commons Attribution 4.0 International (CC BY 4.0). Credit the artists and link the source pages.
+          These MP3s are offered under Creative Commons Attribution 4.0 International (CC BY 4.0). Credit the artists and link the source pages.
 
           - HOLY SOUL — HANZO (2026-11-10): https://gmxmusic.com/tracks/hanzo__holy-soul.html
             Credit: Music: HANZO - HOLY SOUL — https://www.youtube.com/@hanzothe_phonk?sub_confirmation=1
