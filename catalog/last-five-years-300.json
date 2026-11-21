@@ -2,7 +2,7 @@
   "catalogue_version": "2.0",
   "coverage_years": "2022-2026",
   "created_at": "2026-11-21",
-  "count": 300,
+  "count": 301,
   "target_minimum": 300,
   "description": "Curated discovery index of popular worldwide and Indian tracks across multiple genres and languages. This is not a claim of a definitive official ranking.",
   "audio_policy": "No copyrighted MP3 files are included. Add audio only where the rights holder explicitly permits standalone redistribution.",
@@ -3006,9 +3006,7 @@
       "audio_file": null,
       "redistribution_permission": "not_verified",
       "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
-    }
-  ],
-  "songs": [
+    },
     {
       "title": "Ishq Nachaawe",
       "artists": [
