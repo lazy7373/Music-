@@ -36,4 +36,4 @@ This is a growing archive, not a claim to contain every song released in 2025–
 - [Extra tracks](catalog/extra-tracks.json) — requested tracks outside the 2022–2026 catalogue window.
 
 ## Arijit Singh discography
-- `catalog/arijit-singh-discography.json` — starter index of 40 documented Arijit Singh vocal and composer contributions, with official-audio search links and source catalogues for expansion. It is **not yet the complete 742-record discography**; the reference archives document hundreds of recordings across 10 languages.
+- Arijit Singh catalogue: `catalog/arijit-singh-discography.json` — 199 currently indexed entries across multiple languages; still a partial transcription, not the full 742-record reference discography. Commercial MP3s are not mirrored without redistribution rights.
