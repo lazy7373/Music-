@@ -1,0 +1,478 @@
+{
+  "artist": "Arijit Singh",
+  "title": "Arijit Singh Discography and Contributions",
+  "coverage": "2007–2026",
+  "status": "starter_index_not_yet_exhaustive",
+  "scope": [
+    "Playback vocals across languages",
+    "Duets and shared vocals",
+    "Independent/non-film recordings",
+    "Composer credits, including songs sung by other artists",
+    "Alternate/reprise versions and documented replaced recordings (to be expanded)"
+  ],
+  "counts_from_references": {
+    "documented_vocal_recordings": 742,
+    "composer_credits": 28,
+    "warning": "Published discography counts may differ by update date and counting rules. This repository file currently contains a starter selection, not all 742 vocal recordings."
+  },
+  "tracks": [
+    {
+      "title": "Phir Mohabbat",
+      "release_year": 2011,
+      "project": "Murder 2",
+      "language": "Hindi",
+      "credited_composer": "Mithoon",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Phir%20Mohabbat%20Murder%202%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Duaa",
+      "release_year": 2012,
+      "project": "Shanghai",
+      "language": "Hindi",
+      "credited_composer": "Vishal–Shekhar",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Duaa%20Shanghai%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Tum Hi Ho",
+      "release_year": 2013,
+      "project": "Aashiqui 2",
+      "language": "Hindi",
+      "credited_composer": "Mithoon",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Tum%20Hi%20Ho%20Aashiqui%202%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Kabhi Jo Baadal Barse",
+      "release_year": 2013,
+      "project": "Jackpot",
+      "language": "Hindi",
+      "credited_composer": "Sharib–Toshi",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Kabhi%20Jo%20Baadal%20Barse%20Jackpot%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Laal Ishq",
+      "release_year": 2013,
+      "project": "Goliyon Ki Raasleela Ram-Leela",
+      "language": "Hindi",
+      "credited_composer": "Sanjay Leela Bhansali",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Laal%20Ishq%20Goliyon%20Ki%20Raasleela%20Ram-Leela%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Agar Tum Saath Ho",
+      "release_year": 2015,
+      "project": "Tamasha",
+      "language": "Hindi",
+      "credited_composer": "A. R. Rahman",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Agar%20Tum%20Saath%20Ho%20Tamasha%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Channa Mereya",
+      "release_year": 2016,
+      "project": "Ae Dil Hai Mushkil",
+      "language": "Hindi",
+      "credited_composer": "Pritam",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Channa%20Mereya%20Ae%20Dil%20Hai%20Mushkil%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Nashe Si Chadh Gayi",
+      "release_year": 2016,
+      "project": "Befikre",
+      "language": "Hindi",
+      "credited_composer": "Vishal–Shekhar",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Nashe%20Si%20Chadh%20Gayi%20Befikre%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Zaalima",
+      "release_year": 2017,
+      "project": "Raees",
+      "language": "Hindi",
+      "credited_composer": "JAM8",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Zaalima%20Raees%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Hawayein",
+      "release_year": 2017,
+      "project": "Jab Harry Met Sejal",
+      "language": "Hindi",
+      "credited_composer": "Pritam",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Hawayein%20Jab%20Harry%20Met%20Sejal%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Binte Dil",
+      "release_year": 2018,
+      "project": "Padmaavat",
+      "language": "Hindi",
+      "credited_composer": "Sanjay Leela Bhansali",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Binte%20Dil%20Padmaavat%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Ve Maahi",
+      "release_year": 2019,
+      "project": "Kesari",
+      "language": "Hindi",
+      "credited_composer": "Tanishk Bagchi",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Ve%20Maahi%20Kesari%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Khairiyat",
+      "release_year": 2019,
+      "project": "Chhichhore",
+      "language": "Hindi",
+      "credited_composer": "Pritam",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Khairiyat%20Chhichhore%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Shayad",
+      "release_year": 2020,
+      "project": "Love Aaj Kal",
+      "language": "Hindi",
+      "credited_composer": "Pritam",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Shayad%20Love%20Aaj%20Kal%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Rihaa",
+      "release_year": 2020,
+      "project": "Independent single",
+      "language": "Hindi",
+      "credited_composer": "Arijit Singh",
+      "arijit_singh_role": "Singer, composer and producer",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Rihaa%20Independent%20single%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Kesariya",
+      "release_year": 2022,
+      "project": "Brahmāstra: Part One – Shiva",
+      "language": "Hindi",
+      "credited_composer": "Pritam",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Kesariya%20Brahm%C4%81stra%3A%20Part%20One%20%E2%80%93%20Shiva%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Deva Deva",
+      "release_year": 2022,
+      "project": "Brahmāstra: Part One – Shiva",
+      "language": "Hindi",
+      "credited_composer": "Pritam",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Deva%20Deva%20Brahm%C4%81stra%3A%20Part%20One%20%E2%80%93%20Shiva%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Apna Bana Le",
+      "release_year": 2022,
+      "project": "Bhediya",
+      "language": "Hindi",
+      "credited_composer": "Sachin–Jigar",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Apna%20Bana%20Le%20Bhediya%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Satrangi Re",
+      "release_year": 2016,
+      "project": "Wrong Side Raju",
+      "language": "Gujarati",
+      "credited_composer": "Sachin–Jigar",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Satrangi%20Re%20Wrong%20Side%20Raju%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Mon Majhi Re",
+      "release_year": 2013,
+      "project": "Boss",
+      "language": "Bengali",
+      "credited_composer": "Jeet Gannguli",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Mon%20Majhi%20Re%20Boss%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Ureche Mon",
+      "release_year": 2017,
+      "project": "Boss 2",
+      "language": "Bengali",
+      "credited_composer": "Jeet Gannguli",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Ureche%20Mon%20Boss%202%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Abar Phire Ele",
+      "release_year": 2020,
+      "project": "Dwitiyo Purush",
+      "language": "Bengali",
+      "credited_composer": "Anupam Roy",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Abar%20Phire%20Ele%20Dwitiyo%20Purush%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Bhalobashar Morshum",
+      "release_year": 2022,
+      "project": "X=Prem",
+      "language": "Bengali",
+      "credited_composer": "Saptak Sanai",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Bhalobashar%20Morshum%20X%3DPrem%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Anuvanuvu",
+      "release_year": 2024,
+      "project": "Om Bheem Bush",
+      "language": "Telugu",
+      "credited_composer": "Sunny M.R.",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Anuvanuvu%20Om%20Bheem%20Bush%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Neeve Na Neeve Na",
+      "release_year": 2010,
+      "project": "Kedi",
+      "language": "Telugu",
+      "credited_composer": "Sandeep Chowta",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Neeve%20Na%20Neeve%20Na%20Kedi%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Neeyae",
+      "release_year": 2016,
+      "project": "Pugazh",
+      "language": "Tamil",
+      "credited_composer": "Vivek–Mervin",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Neeyae%20Pugazh%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Mouna Thalithe",
+      "release_year": 2014,
+      "project": "Ninnindale",
+      "language": "Kannada",
+      "credited_composer": "Mani Sharma",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Mouna%20Thalithe%20Ninnindale%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Yaar Illahi – Qawwali",
+      "release_year": 2015,
+      "project": "Katyar Kaljat Ghusali",
+      "language": "Marathi",
+      "credited_composer": "Shankar–Ehsaan–Loy",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Yaar%20Illahi%20%E2%80%93%20Qawwali%20Katyar%20Kaljat%20Ghusali%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Gumutha",
+      "release_year": 2013,
+      "project": "Shinyor",
+      "language": "Assamese",
+      "credited_composer": "Anurag Saikia",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Gumutha%20Shinyor%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Ik Vaada",
+      "release_year": 2025,
+      "project": "Akaal: The Unconquered",
+      "language": "Punjabi",
+      "credited_composer": "Shankar–Ehsaan–Loy",
+      "arijit_singh_role": "Playback vocal",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Ik%20Vaada%20Akaal%3A%20The%20Unconquered%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Pagglait",
+      "release_year": 2021,
+      "project": "Pagglait",
+      "language": "Hindi",
+      "credited_composer": "Arijit Singh",
+      "arijit_singh_role": "Composer; sung by Raftaar and Amrita Singh",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Pagglait%20Pagglait%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Phire Faqeera",
+      "release_year": 2021,
+      "project": "Pagglait",
+      "language": "Hindi",
+      "credited_composer": "Arijit Singh",
+      "arijit_singh_role": "Composer; sung by Raja Kumari and Amrita Singh",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Phire%20Faqeera%20Pagglait%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Dil Udd Ja Re",
+      "release_year": 2021,
+      "project": "Pagglait",
+      "language": "Hindi",
+      "credited_composer": "Arijit Singh",
+      "arijit_singh_role": "Composer; sung by Neeti Mohan and Sunny M.R.",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Dil%20Udd%20Ja%20Re%20Pagglait%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Thode Kam Ajnabi",
+      "release_year": 2021,
+      "project": "Pagglait",
+      "language": "Hindi",
+      "credited_composer": "Arijit Singh",
+      "arijit_singh_role": "Composer; sung by Himani Kapoor",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Thode%20Kam%20Ajnabi%20Pagglait%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Lamha",
+      "release_year": 2021,
+      "project": "Pagglait",
+      "language": "Hindi",
+      "credited_composer": "Arijit Singh",
+      "arijit_singh_role": "Composer; sung by Antara Mitra",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Lamha%20Pagglait%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Pagal",
+      "release_year": 2021,
+      "project": "Pagglait",
+      "language": "Hindi",
+      "credited_composer": "Arijit Singh",
+      "arijit_singh_role": "Composer; sung by Raja Kumari and Amrita Singh",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Pagal%20Pagglait%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Deh Shiva",
+      "release_year": 2022,
+      "project": "Independent / non-film",
+      "language": "Hindi",
+      "credited_composer": "Arijit Singh",
+      "arijit_singh_role": "Composer; vocals by Arijit Singh, MC Mawali and Kiraat Singh",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Deh%20Shiva%20Independent%20%2F%20non-film%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Bhide",
+      "release_year": 2023,
+      "project": "Independent / non-film",
+      "language": "Hindi",
+      "credited_composer": "Arijit Singh",
+      "arijit_singh_role": "Composer and vocalist with Divine",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Bhide%20Independent%20%2F%20non-film%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Rooh Jaga Doon",
+      "release_year": 2023,
+      "project": "Independent / non-film",
+      "language": "Hindi",
+      "credited_composer": "Arijit Singh",
+      "arijit_singh_role": "Composer and vocalist",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Rooh%20Jaga%20Doon%20Independent%20%2F%20non-film%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    },
+    {
+      "title": "Mukto Kore Dao",
+      "release_year": 2020,
+      "project": "Independent / non-film",
+      "language": "Bengali",
+      "credited_composer": "Arijit Singh",
+      "arijit_singh_role": "Composer and vocalist",
+      "official_audio_search": "https://www.youtube.com/results?search_query=Mukto%20Kore%20Dao%20Independent%20%2F%20non-film%20official%20audio",
+      "audio_file": null,
+      "redistribution_permission": "not_verified"
+    }
+  ],
+  "full_discography_sources": [
+    {
+      "name": "EverySongBy Arijit Singh catalogue (740 recordings, updated 19 August 2026)",
+      "url": "https://everysongby.com/artists/arijit-singh/",
+      "coverage": "10 languages; film, non-film, alternate versions, collaborations and replaced takes"
+    },
+    {
+      "name": "Wikipedia – List of songs recorded by Arijit Singh",
+      "url": "https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Arijit_Singh",
+      "coverage": "Playback vocals by language, composer credits and replaced songs"
+    },
+    {
+      "name": "MusicBrainz – Arijit Singh works",
+      "url": "https://musicbrainz.org/artist/ed3f4831-e3e0-4dc0-9381-f5649e9df221/works",
+      "coverage": "Work-level recording artist and composer/lyricist credits"
+    }
+  ],
+  "copyright_note": "This is a discovery/metadata catalogue only. No commercial MP3s are mirrored. A streaming link or YouTube download option does not grant redistribution rights; add audio files only with explicit permission or a licence allowing redistribution."
+}
