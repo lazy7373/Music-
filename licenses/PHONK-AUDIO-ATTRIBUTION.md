@@ -1,6 +1,6 @@
 # Audio attribution
 
-Both files in audio/phonk/ are released under Creative Commons Attribution 4.0 International (CC BY 4.0). Credit the artists and link the source pages.
+These MP3s are offered under Creative Commons Attribution 4.0 International (CC BY 4.0). Credit the artists and link the source pages.
 
 - HOLY SOUL — HANZO (2026-11-10): https://gmxmusic.com/tracks/hanzo__holy-soul.html
   Credit: Music: HANZO - HOLY SOUL — https://www.youtube.com/@hanzothe_phonk?sub_confirmation=1
