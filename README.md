@@ -21,3 +21,7 @@ A track being free to stream or having a download button does **not** automatica
 - [SoundCloud](https://soundcloud.com/) — check each creator's permissions.
 
 This is a growing archive, not a claim to contain every song released in 2025–2026.
+
+## Trending charts
+- `charts/trending-2026-11-21.json` — worldwide and India chart snapshot with official-audio search links.
+- Commercial chart songs are not copied into this repository unless the rights holder explicitly permits MP3 redistribution. The chart file is a discovery index, not an MP3 mirror.
