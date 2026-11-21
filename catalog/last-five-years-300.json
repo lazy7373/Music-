@@ -3007,5 +3007,29 @@
       "redistribution_permission": "not_verified",
       "notes": "Discovery catalogue entry. Verify exact release date and rights before adding an MP3."
     }
+  ],
+  "songs": [
+    {
+      "title": "Ishq Nachaawe",
+      "artists": [
+        "Yashraj II",
+        "Rashmeet Kaur"
+      ],
+      "release_year": 2023,
+      "region": "India",
+      "film": "Kho Gaye Hum Kahan",
+      "music_composers": [
+        "Rashmeet Kaur",
+        "Karan Kanchan"
+      ],
+      "lyrics_by": [
+        "Yashraj II",
+        "Dhruv Yogi"
+      ],
+      "official_audio_search": "https://www.youtube.com/results?search_query=Ishq+Nachaawe+Kho+Gaye+Hum+Kahan+official",
+      "audio_file": null,
+      "redistribution_permission": "not_verified",
+      "note": "Added based on the closest exact title match found. Verify this is the intended version before treating it as confirmed; do not redistribute the commercial MP3 without permission."
+    }
   ]
 }
