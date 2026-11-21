@@ -29,3 +29,8 @@ This is a growing archive, not a claim to contain every song released in 2025–
 ## Five-year song catalogue
 - `catalog/last-five-years-300.json` — 300 discovery entries from 2022–2026, including worldwide and Indian tracks across multiple genres and languages.
 - Each entry includes artist, year, region, and an official-audio search link. Audio files are not included unless redistribution permission is verified.
+
+
+## Bonus tracks
+
+- [Extra tracks](catalog/extra-tracks.json) — requested tracks outside the 2022–2026 catalogue window.
